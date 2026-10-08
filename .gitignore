@@ -1,0 +1,5 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+dataset/ 
+models/skin_binary_mobilenetv2_final.keras 
